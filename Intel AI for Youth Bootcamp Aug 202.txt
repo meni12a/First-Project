@@ -1,0 +1,7 @@
+Intel AI for Youth Bootcamp Aug 2022 – Sept 2022
+Digital Readiness Program 
+• Designed and developed Developed understanding for data science languages and importance of data science in
+growing industries.
+• Learned about AI and python to Data Acquisition, Data Exploration, Modelling, Evaluation,etc.
+• Also learned about libraries like numpy, pandas, scikit-learn, keras Worked on Diabetes prediction Machine
+learning model during the bootcamp.
